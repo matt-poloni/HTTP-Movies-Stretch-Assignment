@@ -20,9 +20,9 @@
 
 ### Part 2:
 
-* Now that we have our movies rendering to the page, head over to the `Movie` component.
-* Notice that our `fetchMovie` function is no longer making any HTTP Request. Fix it.
-* Once again no peeking. Doing this on your own will help you out.
+* [x] Now that we have our movies rendering to the page, head over to the `Movie` component.
+* [x] Notice that our `fetchMovie` function is no longer making any HTTP Request. Fix it.
+* [x] Once again no peeking. Doing this on your own will help you out.
 
 ## Stretch Problem
 
