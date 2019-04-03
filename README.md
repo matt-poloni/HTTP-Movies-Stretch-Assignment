@@ -10,13 +10,13 @@
 * [x] Run `yarn` to download dependencies.
 * [x] Run the server using `yarn start` or `node server.js`.
 * [x] In a separate terminal cd into the `client` folder and run `yarn install` to download dependencies.
-* Still inside the `client` folder run `yarn start` to run the client application.
+* [x] Still inside the `client` folder run `yarn start` to run the client application.
 
 ### Part 1:
 
-* Notice that in the `MoviesList` component our `componentDidMount` is missing it's guts.
-* Without peeking back at the original assignment, fill this in to retrieve the list of movies once again.
-* Be sure to set them on state so that your component can render the list.
+* [x] Notice that in the `MoviesList` component our `componentDidMount` is missing it's guts.
+* [x] Without peeking back at the original assignment, fill this in to retrieve the list of movies once again.
+* [x] Be sure to set them on state so that your component can render the list.
 
 ### Part 2:
 
